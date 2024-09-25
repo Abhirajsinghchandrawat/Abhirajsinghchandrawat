@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhirajsinghchandrawat/Abhirajsinghchandrawat/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Abhiraj singh Chandrawat</h1>
 <h3 align="center">A passionate Business Analyst from India.</h3>
 
